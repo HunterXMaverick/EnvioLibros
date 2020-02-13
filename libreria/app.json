@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "prueba1",
-    "slug": "prueba1",
+    "name": "ejerLibreria",
+    "slug": "libreria",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
